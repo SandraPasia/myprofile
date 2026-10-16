@@ -1,0 +1,27 @@
+* {
+  background-color: rgb(55, 81, 119);
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: 'Century Gothic', sans-serif;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+medium {
+  color: rgb(255, 255, 255);
+  margin: 60px;
+  font-family: 'Arial', sans-serif;
+}
+
+h3 {
+  color: rgb(255, 255, 255);
+  margin: 60px;
+  font-family: 'Arial', sans-serif;
+}
